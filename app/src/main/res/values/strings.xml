@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">PantallaInicial</string>
+    <string name="Descripcion">Android Robot</string>
+    <string name="bienvenido">Cienvenido a mi aplicacion</string>
+    <string name="mensaje">"Aqui iria todo el contenido de aplicacion "</string>
+</resources>
